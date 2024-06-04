@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World! Damian Kołodziej";
+echo "Hello World! Damian Kołodziej Best QAS";
